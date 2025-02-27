@@ -1,0 +1,66 @@
+{
+  "searchHint": "검색어를 입력하세요",
+  "hotReview": "제일 핫한 리뷰를 만나보세요",
+  "top3Review": "리뷰 랭킹 ⭐ 상위 3개",
+
+  "lg1Title" : "LG전자 스탠바이미 27ART10AKPL (스탠",
+  "lg1Desc" : "화면을 이동할 수 있고 전환도 편리하다는",
+  "lg1Desc2" : "스탠바이미는 사랑입니다!️",
+  "lg1Cat1" : "LG전자",
+  "lg1Cat2" : "편리성",
+
+  "lg2Title" : "LG전자  울트라HD 75UP8300KNA (스탠드)",
+  "lg2Desc" : "화면 잘 나오고... 리모컨 기능 좋습니다.",
+  "lg2Desc2" : "넷플 아마존 등 버튼하나로 바로 접속 되",
+  "lg2Cat1" : "LG전자",
+  "lg2Cat2" : "고화질",
+
+  "lg3Title" : "라익미 스마트 DS4001L NETRANGE",
+  "lg3Desc" : "반응속도 및 화질이나 여러면에서도 부족함",
+  "lg3Desc2" : "중소기업TV 라익미 제품을 사용해보았는",
+  "lg3Cat1" : "라익미",
+  "lg3Cat2" : "가성비",
+
+  "gold" : "골드",
+
+  "goldLevel" : "골드 계급 사용자들이예요",
+  "bestReviewer" : "베스트 리뷰어 🏆 Top10",
+
+  "companyName" : "LOGO Inc.",
+  "aboutUs" : "회사 소개",
+  "recruitingTalent" : "인재 채용",
+  "techBlog" : "기술 블로그",
+  "reviewCopyright" : "리뷰 저작권",
+  "reviewEmail" : "review@logo.com",
+
+  "bottom" : "(주)아무개  서울시 강남구",
+
+  "profileTitle" : "랭킹 1위",
+  "profileTitleSub" : "베스트 리뷰어",
+
+  "profileDesc" : "조립컴 업체를 운영하며 리뷰를 작성합니다.",
+
+  "reviewReturn" : "작성한 리뷰",
+  "piece" : "총 35개",
+  "filterLatest" : "최신순",
+
+  "reviewTitle" : "AMD 라이젠 5 5600X 버미어",
+  "reviewDesc" : "정품 멀티팩",
+
+  "cat1" : "가격 저렴해요",
+  "cat2" : "CPU온도 고온",
+  "cat3" : "서멀작업 가능해요",
+  "cat4" : "게임 잘 돌아가요",
+
+  "catDesc1" : "멀티 작업도 잘 되고 꽤 괜찮습니다. 저희 회사 고객님들에게도 추천 가능한 제품인 듯 합니다.",
+  "catDesc2" : "3600에서 바꾸니 체감이 살짝 되네요. 버라이어티한 느낌 까지는 아닙니다.",
+
+  "leaveComment" : "댓글 달기..",
+
+  "homeTab" : "홈",
+  "categoryTab" : "카테고리",
+  "communityTab" : "커뮤니티",
+  "myPageTab" : "마이페이지"
+
+
+}

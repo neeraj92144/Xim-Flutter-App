@@ -1,0 +1,65 @@
+{
+  "searchHint": "Enter search keyword",
+  "hotReview": "Check out the hottest reviews",
+  "top3Review": "Review Ranking ⭐ Top 3",
+
+  "lg1Title": "LG Electronics StanbyME 27ART10AKPL (Stand)",
+  "lg1Desc": "The screen can be moved, and switching is convenient",
+  "lg1Desc2": "StanbyME is love! ❤️",
+  "lg1Cat1": "LG Electronics",
+  "lg1Cat2": "Convenience",
+
+  "lg2Title": "LG Electronics Ultra HD 75UP8300KNA (Stand)",
+  "lg2Desc": "The screen quality is great... and the remote control works well.",
+  "lg2Desc2": "With a single button, you can access Netflix, Amazon, etc.",
+  "lg2Cat1": "LG Electronics",
+  "lg2Cat2": "High Quality",
+
+  "lg3Title": "LikeMe Smart DS4001L NETRANGE",
+  "lg3Desc": "Response speed and image quality are lacking in various ways",
+  "lg3Desc2": "Have you tried using a mid-tier brand TV like LikeMe?",
+  "lg3Cat1": "LikeMe",
+  "lg3Cat2": "Value for Money",
+
+  "gold": "Gold",
+
+  "goldLevel": "Gold Rank Users",
+  "bestReviewer": "Best Reviewer 🏆 Top 10",
+
+  "companyName" : "LOGO Inc.",
+  "aboutUs": "About Us",
+  "recruitingTalent": "Careers",
+  "techBlog": "Tech Blog",
+  "reviewCopyright": "Review Copyright",
+  "reviewEmail" : "review@logo.com",
+
+  "bottom": "(Co.) Someone, Gangnam-gu, Seoul",
+
+  "profileTitle": "Rank 1",
+  "profileTitleSub": "Best Reviewer",
+
+  "profileDesc": "I run a custom PC business and write reviews.",
+
+  "reviewReturn": "Reviews Written",
+  "piece": "35 items",
+  "filterLatest": "Latest",
+
+  "reviewTitle": "AMD Ryzen 5 5600X Vermeer",
+  "reviewDesc": "Genuine Multipack",
+
+  "cat1": "Affordable Price",
+  "cat2": "High CPU Temperature",
+  "cat3": "Thermal Work Possible",
+  "cat4": "Great for Gaming",
+
+  "catDesc1": "Great for multitasking, quite decent. I would recommend it to my customers.",
+  "catDesc2": "Switching from 3600, I can feel a slight performance difference, but nothing extraordinary.",
+
+  "leaveComment": "Leave a comment...",
+
+  "homeTab" : "Home",
+  "categoryTab" : "Category",
+  "communityTab" : "Community",
+  "myPageTab" : "My Page"
+
+}
